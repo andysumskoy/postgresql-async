@@ -22,3 +22,7 @@ before_script:
 notifications:
   email:
     - linhares.mauricio@gmail.com
+
+group: stable
+dist: trusty
+os: linux
